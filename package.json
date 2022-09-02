@@ -1,0 +1,24 @@
+{
+  "name": "af-random-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfalconflores/af-random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Alex Stefano Falcon Flores <alexfalconflores@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfalconflores/af-random-str-msg/issues"
+  },
+  "homepage": "https://github.com/alexfalconflores/af-random-str-msg#readme",
+  "bin": {
+    "af-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
